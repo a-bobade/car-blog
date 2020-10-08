@@ -1,1 +1,1 @@
-A simple website showing car rankings
+A simple website showing the ranking of luxury cars
